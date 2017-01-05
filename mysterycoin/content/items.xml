@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="2">
+	<active description="For Testing!" gfx="test_button.png" name="Testing Button" maxcharges="0"/>
+
+	<active description="It's a mystery" gfx="coin.png" name="Mysterious Coin" maxcharges="1"/>
+</items>
